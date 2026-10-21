@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Java Lab - All Experiments & Final Project
 
 A comprehensive collection of Java laboratory experiments covering GUI programming (Swing), MVC architecture, Database Connectivity (JDBC), Networking (Sockets), Distributed Systems (RMI), Java Enterprise Web (Servlets & JSP), and a complete multi-module enterprise e-commerce platform (**ShopSphere**).
@@ -48,3 +49,6 @@ A comprehensive collection of Java laboratory experiments covering GUI programmi
   ```bash
   mvn clean install
   ```
+=======
+# ALL-project-of-java-
+>>>>>>> origin/main
